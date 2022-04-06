@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://phanuwatdev.github.io/aboutme",
+  "homepage": "http://phanuwatdev.github.io/palindromic",
   "dependencies": {
     "@artsy/fresnel": "^1.7.0",
     "@testing-library/jest-dom": "^5.14.1",
