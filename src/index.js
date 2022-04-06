@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App';
-import Palindromic from './components/Challenges/Palindromic';
+import App from './App';
+// import Palindromic from './components/Challenges/Palindromic';
 import reportWebVitals from './reportWebVitals';
 import 'semantic-ui-css/semantic.min.css';
 import { BrowserRouter } from 'react-router-dom'
@@ -11,7 +11,7 @@ import './css/Profile.css';
 ReactDOM.render(
   <React.Fragment>
     <BrowserRouter basename={'/palindromic'}>
-      <Palindromic/>
+      <App/>
     </BrowserRouter>
   </React.Fragment>,
   document.getElementById('root')
