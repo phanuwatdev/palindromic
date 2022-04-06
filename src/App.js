@@ -1,7 +1,6 @@
 import React from 'react'
 // import { Button, GridColumn, Grid } from 'semantic-ui-react'
 import { Route, Switch } from 'react-router-dom'
-import Profile from './components/Profile/Profile'
 // import Timeline from './components/Profile/subpage/Timeline'
 import Palindromic from './components/Challenges/Palindromic'
 
