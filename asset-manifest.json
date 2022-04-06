@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/palindromic/static/css/main.800e9fe4.chunk.css",
+    "main.js": "/palindromic/static/js/main.cf5df9cf.chunk.js",
+    "main.js.map": "/palindromic/static/js/main.cf5df9cf.chunk.js.map",
+    "runtime-main.js": "/palindromic/static/js/runtime-main.6e74f8aa.js",
+    "runtime-main.js.map": "/palindromic/static/js/runtime-main.6e74f8aa.js.map",
+    "static/css/2.747d3429.chunk.css": "/palindromic/static/css/2.747d3429.chunk.css",
+    "static/js/2.a06f06f9.chunk.js": "/palindromic/static/js/2.a06f06f9.chunk.js",
+    "static/js/2.a06f06f9.chunk.js.map": "/palindromic/static/js/2.a06f06f9.chunk.js.map",
+    "static/js/3.59dd0df4.chunk.js": "/palindromic/static/js/3.59dd0df4.chunk.js",
+    "static/js/3.59dd0df4.chunk.js.map": "/palindromic/static/js/3.59dd0df4.chunk.js.map",
+    "index.html": "/palindromic/index.html",
+    "static/css/2.747d3429.chunk.css.map": "/palindromic/static/css/2.747d3429.chunk.css.map",
+    "static/css/main.800e9fe4.chunk.css.map": "/palindromic/static/css/main.800e9fe4.chunk.css.map",
+    "static/js/2.a06f06f9.chunk.js.LICENSE.txt": "/palindromic/static/js/2.a06f06f9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/palindromic/static/media/Mulish-Regular.06ce9c37.ttf",
+    "static/media/semantic.min.css": "/palindromic/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e74f8aa.js",
+    "static/css/2.747d3429.chunk.css",
+    "static/js/2.a06f06f9.chunk.js",
+    "static/css/main.800e9fe4.chunk.css",
+    "static/js/main.cf5df9cf.chunk.js"
+  ]
+}
