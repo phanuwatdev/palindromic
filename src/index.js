@@ -10,9 +10,6 @@ import './css/Profile.css';
 
 ReactDOM.render(
   <React.Fragment>
-    <BrowserRouter basename={'/aboutme'}>
-      <App/>
-    </BrowserRouter>
     <BrowserRouter basename={'/palindromic'}>
       <Palindromic/>
     </BrowserRouter>
