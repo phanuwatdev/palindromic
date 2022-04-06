@@ -3,7 +3,6 @@ import React from 'react'
 import { Route, Switch } from 'react-router-dom'
 import Profile from './components/Profile/Profile'
 // import Timeline from './components/Profile/subpage/Timeline'
-import MAQEStyling from './components/Challenges/MAQEStyling'
 import Palindromic from './components/Challenges/Palindromic'
 
 export default function App() {
