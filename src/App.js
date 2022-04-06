@@ -16,7 +16,7 @@ export default function App() {
   return (
     <div>
       <Switch>
-        <Route exact path="/" ><Profile/></Route>
+        <Route exact path="/" ><Palindromic/></Route>
         <Route path="/palindromic"><Palindromic/></Route>
         {/* <Route><Timeline/></Route> */}
       </Switch>
